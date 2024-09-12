@@ -20,6 +20,9 @@ p {
 }
 
 a {
-    font-size: 20px;
+    font-size: 28px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
